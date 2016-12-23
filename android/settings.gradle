@@ -1,0 +1,3 @@
+rootProject.name = 'RnFastlaneCircleExample'
+
+include ':app'
